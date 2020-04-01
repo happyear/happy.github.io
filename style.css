@@ -1,0 +1,35 @@
+header {
+    background-color: linen;
+    text-align:center;
+    padding:1px;
+    font-family:Arial, Helvetica, sans-serif;	
+    font: weight 500;
+}
+
+body {
+    background-color:white;
+}
+
+div {
+    float:center;
+    background-color: white;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 2;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2em 2em 4em;
+}
+
+h1 {
+    color:rgb(163, 117, 32);
+    font-weight: 600;
+    line-height: 1;
+    letter-spacing: 10px;
+}
+
+h2 {
+    color:rgb(185, 138, 49);
+    font-weight: 500;
+    line-height: 1;
+}
